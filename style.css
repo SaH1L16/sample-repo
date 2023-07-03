@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.my-style {
+  background-color: #176B87;
+  color: #DAFFFB;
+  padding-left: 270px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 20px; 
+}
